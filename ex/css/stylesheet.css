@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'windsong';
+    src: url("../font/windsong-webfont.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+	
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-size: 18px;
+  line-height: 1.8em;
+  color: #5D6063;
+  background-color: bisque;
+}
+
+
+.div1 {
+  width: 500px;
+  height: 140px;
+  margin: 50px;
+  padding: 30px;
+  border: 6px solid blue;
+  background-color: white;
+  margin-bottom: 50px;
+}
+
+.div2 {
+  width: 400px;
+  height: 100px; 
+  margin: 50px;
+  padding: 30px;
+  border: 3px solid red;
+  background-color: white;
+  margin-bottom: 20px;
+}
+.second {
+  width: 520px;
+	height: 200px;
+	background-color: white;
+	margin: 50px;
+	padding: 10px 0px 0px 20px;
+	border: 3px solid purple;
+	box-sizing: border-box;
+	line-height: 1.5em;
+	}
+
+
+.div3 { 
+	background-color: honeydew;
+line-height: 1.8em;
+  padding: 50px;
+  border: 1px solid red;
+  margin-bottom: 20px;
+}
+
+.div4 { /*design the style*/
+	padding-bottom: 30px;
+	padding-left: 50px;
+}
+
+h1{
+	font-family: 'windsong';
+	padding-left: 50px;
+	padding-top: 50px;
+	font-size: 40px;
+	line-height: 1em;
+}
+h2 {	
+	font-family: 'Indie Flower', cursive;
+	padding-bottom: 10px;
+}
+
+h3 {	
+	font-family: 'Shadows Into Light', cursive;
+	font-weight:400;
+	
+}
+h4 {	
+	font-family: 'Shadows Into Light', cursive;
+	font-weight:700;
+}
